@@ -1,0 +1,14 @@
+img{
+    width: 180px;
+    height: 180px;
+    border: 2px solid brown;
+    border-radius: 100px;
+}
+aside{
+    margin-bottom: 50px;
+    float: right;
+}
+nav{
+    background-color: lightgrey;
+    float: right;
+}
